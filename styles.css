@@ -97,7 +97,7 @@ main{
 .contenedor__login-register form{
     width: 100%;
     padding: 80px 20px;
-    background-color: #5d1e1e;
+    background-color: #d07373;
     color: white;
     position: absolute;
     border-radius: 20px;
@@ -128,6 +128,7 @@ main{
     border: none;
     font-size: 14px;
     background: #46adfd;
+    border-radius: 5px;
     color: white;
     cursor: pointer;
     outline: none;
