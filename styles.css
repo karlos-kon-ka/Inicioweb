@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(istockphoto-1392732720-612x612.jpg);
+    background-image: url(bubbles-230014_1920.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -69,12 +69,14 @@ main{
     cursor: pointer;
     color: white;
     outline: none;
+    border-radius: 5px;
     transition: all 300ms;
 }
 
 .caja__trasera  button:hover{
     background: #859391ca;
     color: aqua;
+    
 }
 
 /*formularios*/
@@ -97,7 +99,7 @@ main{
 .contenedor__login-register form{
     width: 100%;
     padding: 80px 20px;
-    background-color: #d07373;
+    background-color: #9b8f41;
     color: white;
     position: absolute;
     border-radius: 20px;
